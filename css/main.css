@@ -1,0 +1,44 @@
+.main-body{
+    background-color: #f4f4f4;
+    width: 400px;
+    height: 350px;
+}
+
+.div-center{
+    margin: 0 auto;
+}
+
+.text-center{
+    text-align: center !important;
+}
+
+label, input {
+    display: inline-block;
+}
+
+label {
+    margin-bottom: 20px;
+}
+
+
+.user-form { padding:20px; }
+
+.user-form .field { padding: 4px; margin:1px; background: #eee; }
+
+.user-form .field label { display:inline-block; width:200px; margin-left:5px; }
+
+.user-form .field input { display:inline-block; }
+
+select {
+    display: block;
+    margin: 0 auto;
+}
+
+button{
+    display: block;
+    margin: 0 auto;
+}
+
+.spacing{
+    height: 50px;
+}
